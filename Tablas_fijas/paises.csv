@@ -1,0 +1,31 @@
+country_code,country_name,economic_situation
+DEU,Alemania,1
+AUS,Australia,1
+CAN,Canadá,1
+ESP,España,1
+USA,Estados Unidos,1
+ITA,Italia,1
+JPN,Japón,1
+GBR,Reino Unido,1
+RUS,Rusia,1
+SWE,Suecia,1
+ALB,Albania,0
+ARG,Argentina,0
+BRA,Brasil,0
+COL,Colombia,0
+VNM,Vietnam,0
+PHL,Filipinas,0
+IND,India,0
+IDN,Indonesia,0
+MEX,México,0
+PER,Perú,0
+ZAF,Sudáfrica,0
+THA,Tailandia,0
+AFG,Afganistán,0
+BGD,Bangladesh,0
+EGY,Egipto,0
+ETH,Etiopía,0
+IRQ,Iraq,0
+IRN,Irán,0
+KEN,Kenia,0
+MAR,Marruecos,0
