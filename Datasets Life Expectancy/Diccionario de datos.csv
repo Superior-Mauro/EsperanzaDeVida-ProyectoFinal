@@ -1,0 +1,56 @@
+Diccionario de datos, esperanza de vida:;;
+Codigo;Indicador;Summary
+SP.DYN.LE00.IN;Life expectancy at birth, total (years);Esperanza de vida al nacer, total (años). Este indicador representa la expectativa de vida promedio al nacer en años.
+NY.GDP.PCAP.CD;GDP per capita (current US$);Producto interno bruto per cápita (dólares estadounidenses actuales). Este indicador representa el valor total de los bienes y servicios producidos en un país dividido por la población total, dando una medida del nivel promedio de riqueza económica por persona.
+NY.GNP.MKTP.CD;GNI (current US$);Ingreso nacional bruto (dólares estadounidenses actuales). Este indicador representa el ingreso total generado por los residentes de un país, incluyendo el ingreso del trabajo y las ganancias del capital, dentro y fuera del país.
+NY.GDP.MKTP.CD;GDP (current US$);Producto interno bruto (dólares estadounidenses actuales). Este indicador representa el valor total de todos los bienes y servicios finales producidos en un país durante un período determinado.
+SP.URB.TOTL.IN.ZS;Urban population (% of total population);Población urbana (% de la población total). Este indicador representa el porcentaje de la población total de un país que vive en áreas urbanas.
+SP.RUR.TOTL.ZS;Rural population (% of total population);Población rural (% de la población total). Este indicador representa el porcentaje de la población total de un país que vive en áreas rurales.
+MS.MIL.XPND.GD.ZS;Military expenditure (% of GDP);Gasto militar (% del PIB). Este indicador representa el porcentaje del Producto Interno Bruto (PIB) que se destina al gasto en defensa y actividades militares.
+NE.CON.GOVT.CD;General government final consumption expenditure (current US$);Gasto final de consumo del gobierno general (dólares estadounidenses actuales). Este indicador representa el gasto del gobierno en bienes y servicios finales para el consumo público.
+SP.POP.GROW;Population growth (annual %);Crecimiento de la población (anual %). Este indicador representa la tasa de crecimiento anual de la población de un país.
+EG.ELC.ACCS.ZS;Access to electricity (% of population);Acceso a la electricidad (% de la población). Este indicador representa el porcentaje de la población que tiene acceso a la electricidad.
+TX.VAL.FOOD.ZS.UN;Food exports (% of merchandise exports);Exportaciones de alimentos (% de las exportaciones de mercancías). Este indicador representa el porcentaje de las exportaciones de mercancías que corresponden a productos alimentarios.
+AG.PRD.FOOD.XD;Food production index (2014-2016 = 100);Índice de producción de alimentos (2014-2016 = 100). Este indicador mide los cambios en la producción de alimentos en relación con un período base (2014-2016).
+NE.CON.PRVT.ZS;Households and NPISHs final consumption expenditure (% of GDP); Representa el gasto final de consumo de los hogares y las organizaciones sin fines de lucro al servicio de los hogares como porcentaje del PIB, lo que nos permite analizar la contribución del consumo privado al desarrollo económico y la actividad de los hogares en un país.
+AF;Africa;Representa el continente de África
+AS;Asia;Representa el continente de Asia
+EU;Europe;Representa el continente de Europa.
+NA;North America;Representa el continente de América del Norte.
+SA;South America;Representa el continente de América del Sur.
+OC;Oceania;Representa el continente de Oceanía.
+AN;Antarctica;Representa el continente de la Antártida
+LIC;Low income;Representa la categoría de ingresos bajos.
+LMC;Lower middle income';Representa la categoría de ingresos bajos-medios.
+UMC;Upper middle income;Representa la categoría de ingresos medios-altos.
+HIC;High income;Representa la categoría de ingresos altos.
+DEU;Germany;Representa Alemania.
+AUS;Australia;Representa Australia.
+CAN;Canada;Representa Canadá.
+ESP;Spain;Representa España
+USA;United States;Representa Estados Unidos.
+ITA;Italy;Representa Italia.
+JPN;Japan;Representa Japón.
+GBR;United Kingdom;Representa Reino Unido.
+RUS;Russia;Representa Rusia.
+SWE;Sweden;Representa Suecia.
+ALB;Albania;Representa Albania.
+ARG;Argentina;Representa Argentina.
+BRA;Brazil;Representa Brasil.
+COL;Colombia;Representa Colombia.
+VNM;Vietnam;Representa Vietnam.
+PHL;Philippines;Representa Filipinas.
+IND;India;Representa India.
+IDN;Indonesia;Representa Indonesia.
+MEX;Mexico;Representa México.
+PER;Peru;Representa Perú.
+ZAF;South Africa;Representa Sudáfrica.
+THA;Thailand;Representa Tailandia.
+AFG;Afghanistan;Representa Afganistán.
+BGD;Bangladesh;Representa Bangladesh.
+EGY;Egypt;Representa Egipto.
+ETH;Ethiopia;Representa Etiopía.
+IRQ;Iraq;Representa Iraq.
+IRN;Iran;Representa Iran.
+KEN;Kenya;Representa Kenia.
+MAR;Morocco;Representa Marruecos.
