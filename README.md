@@ -19,9 +19,6 @@ El proyecto tiene como objetivo principal estudiar las diferencias en la esperan
 En nuestro proyecto de esperanza de vida, hemos realizado una cuidadosa selección de países que representan diferentes niveles de desarrollo y esperanza de vida. Esta selección nos permitirá analizar las disparidades y determinantes de la esperanza de vida en diferentes contextos socioeconómicos. Hemos clasificado los países en tres categorías: países desarrollados, países con esperanza de vida media y países con esperanza de vida baja.
 Esta selección de países nos permitirá obtener una perspectiva amplia y representativa de la esperanza de vida a nivel mundial, considerando diferentes niveles de desarrollo, contextos socioeconómicos y de salud.
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![]
-
-
 
 
 ##DATA ENGINEERING
