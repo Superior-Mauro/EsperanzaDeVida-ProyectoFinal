@@ -183,7 +183,7 @@ En este contexto, el pipeline automatizado puede comprender las siguientes etapa
 Se agradece cualquier contribución al proyecto. Si desea colaborar, siga los siguientes pasos:
 1. Realice un fork del repositorio.
 2. Cree una rama para su nueva funcionalidad o corrección de errores.
-3. Realice los cambios necesarios y documento apropiadamente.
+3. Realice los cambios necesarios y documente apropiadamente.
 4. Envíe una pull request para revisar los cambios propuestos.
 
 **Equipo**
@@ -192,6 +192,10 @@ El proyecto "Esperanza de Vida" ha sido desarrollado por el equipo de científic
 **Contacto**
 Para obtener más información sobre el proyecto "Esperanza de Vida" o para realizar consultas adicionales, puede contactarnos a través de los siguientes canales:
 - Correo electrónico: project-team@datamind.com
-- Teléfono: +51 123 456 789  +57 123 456 789
+- Teléfonos:
+- +51 972 540 165
+- +51 944 921 743
+- +51 915 391 826
+- +57 3126027816
 
 Estamos disponibles para responder cualquier pregunta o inquietud que pueda tener.
