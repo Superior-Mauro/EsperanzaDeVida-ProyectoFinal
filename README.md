@@ -15,15 +15,15 @@ Somos Dataminds Consultora, una empresa especializada en desbloquear el potencia
 
 El proyecto tiene como objetivo principal estudiar las diferencias en la esperanza de vida entre países y grupos de población, identificando los factores que contribuyen a estas diferencias y proporcionando recomendaciones basadas en el análisis de datos. El proyecto se basa en la premisa de que la esperanza de vida es un indicador clave de desarrollo humano y bienestar y que comprender los factores que influyen en ella es fundamental para promover la equidad y mejorar la calidad de vida de las personas en todo el mundo. Utilizaremos técnicas avanzadas de análisis de datos y visualización para explorar las tendencias a lo largo del tiempo, identificar correlaciones entre indicadores clave y presentar recomendaciones basadas en los hallazgos.
 
-##Selección de países
+## Selección de países
 En nuestro proyecto de esperanza de vida, hemos realizado una cuidadosa selección de países que representan diferentes niveles de desarrollo y esperanza de vida. Esta selección nos permitirá analizar las disparidades y determinantes de la esperanza de vida en diferentes contextos socioeconómicos. Hemos clasificado los países en tres categorías: países desarrollados, países con esperanza de vida media y países con esperanza de vida baja.
 Esta selección de países nos permitirá obtener una perspectiva amplia y representativa de la esperanza de vida a nivel mundial, considerando diferentes niveles de desarrollo, contextos socioeconómicos y de salud.
 
 
 
-##DATA ENGINEERING
+## DATA ENGINEERING
 La etapa de Data Engineering en el proyecto "Esperanza de Vida" se encarga de procesar, transformar y preparar los datos necesarios para su posterior análisis y modelado. A continuación, se describen las principales tareas realizadas durante esta etapa:
-###ETL
+### ETL
 **Extracción:** En esta etapa, se obtienen los datos relevantes para el análisis de esperanza de vida desde diferentes fuentes de datos, como bases de datos, archivos CSV, APIs u otras fuentes externas. La extracción implica identificar y seleccionar los datos necesarios para el análisis de esperanza de vida, ya sea datos demográficos, indicadores de salud, factores socioeconómicos u otros datos relevantes.
 
 ![jupyter1](imagenes/jupyter1.png)
@@ -41,7 +41,7 @@ Se aplican técnicas de procesamiento para transformar los datos en un formato a
 
 
 
-###Control de calidad:
+### Control de calidad:
 Se realizan pruebas y validaciones para garantizar la calidad de los datos procesados. Esto implica la detección y corrección de posibles errores o inconsistencias
 
 ![indicadores1](imagenes/indicadores1.png)
@@ -50,45 +50,45 @@ Se realizan pruebas y validaciones para garantizar la calidad de los datos proce
 
 
 
-####EDA
+#### EDA
 El EDA en el proyecto de predicción de esperanza de vida implica explorar y analizar los datos de manera exhaustiva para comprender su estructura, características y relaciones. Esto proporciona una base sólida para la construcción de modelos predictivos y la toma de decisiones informadas.
 
-###Análisis descriptivo: 
+### Análisis descriptivo: 
 Se realiza un resumen estadístico de las variables relevantes. Se exploran medidas como la media, la mediana, la desviación estándar, los valores mínimos y máximos, y se identifican posibles valores atípicos o datos faltantes.
 
 ![eda1](imagenes/eda1.png)
 
 
-###Visualización de datos: 
+### Visualización de datos: 
 Se utilizan gráficos y diagramas para representar visualmente los datos. Algunas visualizaciones útiles pueden incluir histogramas para analizar la distribución de la esperanza de vida.
 
 ![eda2](imagenes/eda2.png)
 
 
-###Análisis de correlación: 
+### Análisis de correlación: 
 Se calculan las correlaciones entre las variables para identificar posibles relaciones lineales o no lineales. Esto puede ayudar a determinar qué variables pueden ser más relevantes para predecir la esperanza de vida y cómo se relacionan entre sí.
 
 ![eda3](imagenes/eda3.png)
 
 
-###Tratamiento de datos faltantes o inconsistentes: 
+### Tratamiento de datos faltantes o inconsistentes: 
 Se detectan y manejan los datos faltantes o inconsistentes en el conjunto de datos. Esto puede implicar técnicas como imputación de datos faltantes.
 
 ![eda4](imagenes/eda4.png)
 
-###Identificación de valores atípicos: 
+### Identificación de valores atípicos: 
 Se buscan valores extremos o atípicos que puedan afectar el análisis o la construcción del modelo. Se pueden utilizar técnicas como el diagrama de caja (box plot) o los métodos estadísticos para identificar y manejar estos valores atípicos
 
 ![eda5](imagenes/eda5.png)
 
 
-###Análisis de distribuciones: 
+### Análisis de distribuciones: 
 Se examinan las distribuciones de las variables para comprender su forma y propiedades estadísticas. Esto puede ayudar a elegir el enfoque adecuado para el modelado y la transformación de variables si es necesario.
 
 ![eda6](imagenes/eda6.png)
 
 
-###Análisis de relaciones y tendencias: 
+### Análisis de relaciones y tendencias: 
 Se investigan las relaciones entre las variables y se buscan posibles tendencias o patrones a lo largo del tiempo o entre diferentes grupos. Esto puede ayudar a identificar factores que puedan influir en la esperanza de vida.
 
 ![eda7](imagenes/eda7.png)
@@ -122,7 +122,7 @@ Este indicador representa el gasto de consumo final del gobierno general en dól
 
 ![powerbi5](imagenes/powerbi5.png)
 
-##MACHINE LEARNING
+## MACHINE LEARNING
 
 La implementación del modelo de Machine Learning en el proyecto de esperanza de vida implica la recopilación y preparación de datos, selección de características, entrenamiento y evaluación del modelo utilizando el algoritmo de Random Forest, validación cruzada, y finalmente, la implementación del modelo para generar predicciones y obtener insights significativos sobre la esperanza de vida.
 
