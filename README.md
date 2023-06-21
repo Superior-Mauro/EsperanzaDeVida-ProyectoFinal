@@ -26,12 +26,14 @@ La etapa de Data Engineering en el proyecto "Esperanza de Vida" se encarga de pr
 ### ETL
 **Extracción:** En esta etapa, se obtienen los datos relevantes para el análisis de esperanza de vida desde diferentes fuentes de datos, como bases de datos, archivos CSV, APIs u otras fuentes externas. La extracción implica identificar y seleccionar los datos necesarios para el análisis de esperanza de vida, ya sea datos demográficos, indicadores de salud, factores socioeconómicos u otros datos relevantes.
 
-![jupyter1](imagenes/jupyter1.png)
+<div align="center">
+  <img src="imagenes/jupyter1.png" alt="jupyter1">
+</div>
 
 
 **Transformación:** Una vez que los datos se han extraído, se aplican una serie de transformaciones para limpiar, integrar y preparar los datos de manera adecuada para el análisis. Esto puede incluir tareas como la eliminación de datos duplicados, la corrección de valores faltantes o erróneos, la normalización de datos, la conversión de tipos de datos y la agregación de datos en niveles adecuados de granularidad.
 
-![jupyter2](imagenes/jupyter2.png)
+![jupyter2](imagenes/jupyter2.png) 
 
 ![jupyter3](imagenes/jupyter3.png)
 
